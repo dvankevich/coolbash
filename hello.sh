@@ -19,4 +19,6 @@
 
 set -o nounset                              # Treat unset variables as an error
 echo -e "Hello world!!"
+echo -e "Hello world!!"
+#напечатает на разных строках или нет?
 
